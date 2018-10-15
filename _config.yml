@@ -24,13 +24,13 @@ favicon: img/favicon.png
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
-  github: "https://github.com/luuman"
-  zhihu: "#"
-  weibo: "#"
-  google: "#"
-  twitter: "#"
-  linkedin: "#"
+  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=VGFmZmVgYmxmbRQlJXo3Ozk"
+  github: "https://github.com/huguanghui"
+  zhihu: "https://www.zhihu.com/people/hu-guang-hui-19"
+  weibo: "http://weibo.com/guanghuihu"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
   # facebook: "#"
   # rss: /atom.xml
   # pinterest: "#"
@@ -62,8 +62,8 @@ duoshuo:
 
 gitment:
   on: true
-  owner: luuman
-  repo: luuman.github.io
+  owner: huguanghui
+  repo: huguanghui.github.io
   client_id: 
   client_secret: 
 
@@ -130,7 +130,7 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  name: http://luuman.github.io/
+  name: http://huguanghui.github.io/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
@@ -146,7 +146,7 @@ alipay: /img/alipay.png
 weixin: /img/weixin.png
 
 #是否开启“关于我”。
-aboutme: 纯海迷、爱运动、爱交友、爱旅行、喜欢接触新鲜事物、迎接新的挑战，更爱游离于错综复杂的编码与逻辑中
+aboutme: 低调,爱编程
 #aboutme: false
 
 # 是否在新窗口打开链接
